@@ -1,0 +1,72 @@
+.location {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	position: relative;
+}
+
+.location__container {
+	margin-top: 20px;
+	max-width: 320px;
+}
+
+@media (min-width: 600px) {
+  .location__container {
+    max-width: 750px;
+  }
+}
+
+
+.line__img {
+	width: 110%;
+	max-width: 1024px;
+	height: auto;
+	filter: brightness(0) saturate(100%) invert(84%) sepia(62%) saturate(3802%) hue-rotate(347deg) brightness(95%) contrast(99%);
+	transform: rotate(165deg);
+  margin-top: -50px;
+}
+
+.rotate180 {
+	transform: rotate(180deg);
+}
+
+.location__img {
+	max-width: 300px;
+	width: 100%;
+	height: auto;
+	margin-bottom: 10px;
+}
+
+@media (min-width: 600px) {
+  .location__img {
+    max-width: 710px;
+  }
+}
+
+.flower__img {
+	max-width: 65px;
+	width: 100%;
+	height: auto;
+	margin-top: 100px;
+}
+
+@media (min-width: 600px) {
+  .flower__img {
+    max-width: 130px;
+  }
+}
+
+
+.timing__img {
+	max-width: 200px;
+	width: 100%;
+	height: auto;
+	margin-bottom: 10px;
+}
+
+@media (min-width: 600px) {
+  .timing__img {
+    max-width: 410px;
+  }
+}

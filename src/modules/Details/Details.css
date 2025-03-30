@@ -1,0 +1,21 @@
+.details {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin-top: 60px;
+}
+
+.details__container {
+	max-width: 320px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+@media (min-width: 600px) {
+.details__container {
+    max-width: 750px;
+  }
+}
