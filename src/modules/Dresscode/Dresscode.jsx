@@ -10,7 +10,7 @@ export const Dresscode = () => {
 	return (
 		<div className='dresscode'> 
 			<div className='dresscode__container'>
-				<Text size='l' color='yellow'>
+				<Text size='l' color='yellow' titleFont>
 					ДРЕСС-КОД
 				</Text>
 

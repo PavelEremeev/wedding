@@ -1,0 +1,19 @@
+.flower {
+  width: 70px;
+	height: auto;
+  opacity: 0;
+  transform: translateX(-200%) rotate(0deg);
+  transition: transform 1s ease, opacity 2s ease;
+}
+
+
+@media (min-width: 600px) {
+  .flower {
+    width: 130px;
+  }
+}
+
+.fly-in {
+  opacity: 1;
+  transform: translateX(0) rotate(360deg); /* 3 оборота */
+}

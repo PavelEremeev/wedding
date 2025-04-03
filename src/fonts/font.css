@@ -3,3 +3,9 @@
   font-family: 'NewYorker';
   font-weight: normal;
 }
+
+@font-face {
+  src: url(./Exo2-VariableFont_wght.ttf) format('truetype');
+  font-family: 'Exo';
+  font-weight: normal;
+}

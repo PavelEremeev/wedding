@@ -1,0 +1,19 @@
+.hearts__container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 170px;
+	height: auto;
+}
+
+.hearts {
+  opacity: 0;
+  width: 170px;
+  animation: fadeIn 2s ease-in-out forwards;
+}
+
+@keyframes fadeIn {
+  to {
+    opacity: 1;
+  }
+}

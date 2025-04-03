@@ -1,0 +1,38 @@
+.furshet-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.furshet-img {
+  width: 200px;
+	height: auto;
+}
+
+@media (min-width: 600px) {
+  .furshet-img {
+    max-width: 410px;
+  }
+}
+
+.furshet-img.cheers {
+  animation: clink 1s ease-in-out;
+}
+
+@keyframes clink {
+  0% {
+    transform: scale(1);
+  }
+  25% {
+    transform: scale(1.03) translateY(-10px);
+  }
+  50% {
+    transform: scale(1.05) translateY(-15px);
+  }
+  75% {
+    transform: scale(1.03) translateY(-10px);
+  }
+  100% {
+    transform: scale(1);
+  }
+}

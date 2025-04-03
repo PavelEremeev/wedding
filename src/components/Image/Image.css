@@ -1,0 +1,21 @@
+.image {
+  opacity: 0;
+  transform: scale(0.98);
+  transition: opacity 2.5s ease, transform 1.5s ease;
+
+	max-width: 320px;
+	width: 100%;
+	height: auto;
+}
+
+
+@media (min-width: 600px) {
+  .image {
+    max-width: 710px;
+  }
+}
+
+.image.visible {
+  opacity: 1;
+  transform: scale(1);
+}

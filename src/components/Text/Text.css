@@ -1,35 +1,35 @@
 
 /* src/components/Text/Text.css */
 .text {
-  font-family: 'NewYorker', sans-serif;
+  font-family: 'Exo', sans-serif;
 	margin: 0;
 }
 
 /* Small size */
 .text--s {
-  font-size: 0.75rem;
+  font-size: 0.85rem;
 }
 
 @media (min-width: 600px) {
-  .text--s {
-    font-size: 0.875rem;
-  }
-}
-
-@media (min-width: 1024px) {
   .text--s {
     font-size: 1rem;
   }
 }
 
+@media (min-width: 1024px) {
+  .text--s {
+    font-size: 1.25rem;
+  }
+}
+
 /* Medium size */
 .text--m {
-  font-size: 1rem;
+  font-size: 1.1rem;
 }
 
 @media (min-width: 600px) {
   .text--m {
-    font-size: 1.25rem;
+    font-size: 1.3rem;
   }
 }
 
@@ -56,6 +56,23 @@
   }
 }
 
+/* Extralarge size */
+.text--xl {
+  font-size: 2.5rem;
+}
+
+@media (min-width: 600px) {
+  .text--xl {
+    font-size: 2.75rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .text--xl {
+    font-size: 3rem;
+  }
+}
+
 .text--black {
   color: black;
 }
@@ -63,4 +80,8 @@
 .text--yellow {
   color: #f1c40f;
 
+}
+
+.text--font {
+font-family: 'NewYorker', sans-serif;
 }
