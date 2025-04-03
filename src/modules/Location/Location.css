@@ -22,7 +22,6 @@
 	width: 110%;
 	max-width: 1024px;
 	height: auto;
-	filter: brightness(0) saturate(100%) invert(84%) sepia(62%) saturate(3802%) hue-rotate(347deg) brightness(95%) contrast(99%);
 	transform: rotate(165deg);
   margin-top: -50px;
 }

@@ -28,7 +28,6 @@ export const Location = () => {
 			<Flower marginTop={100}/>
 			<Text size='l' marginTop={50} titleFont>21.06.25</Text>
 			<img src={line} alt={line} className='line__img'/>
-			{/* <Image src={line} className='line__img'/> */}
 			<div className='location__container'>
 				<Text size='l' color='yellow' marginBottom={20} titleFont>ЛОКАЦИЯ</Text>
 					<Text>

@@ -9,6 +9,7 @@
 	cursor: pointer;
 	transition: .2s;
 	font-family: 'Exo', sans-serif;
+	color: black;
 }
 
 button:hover {
