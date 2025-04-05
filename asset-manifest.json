@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/paveleremeev.github.io/wedding/static/css/main.8ab4b80f.css",
-    "main.js": "/paveleremeev.github.io/wedding/static/js/main.05c8b146.js",
-    "static/media/hearts.png": "/paveleremeev.github.io/wedding/static/media/hearts.06f9f15046ad9aee1e1e.png",
-    "static/media/Exo2-VariableFont_wght.ttf": "/paveleremeev.github.io/wedding/static/media/Exo2-VariableFont_wght.a5a830e939ad10cf97f4.ttf",
-    "static/media/furshet.png": "/paveleremeev.github.io/wedding/static/media/furshet.bd7f84dc549b1d76a13f.png",
-    "static/media/veranda.jpg": "/paveleremeev.github.io/wedding/static/media/veranda.6571ea57211ef11abf1f.jpg",
-    "static/media/rechnoy.jpg": "/paveleremeev.github.io/wedding/static/media/rechnoy.c8a70d1415e844401890.jpg",
-    "static/media/flower.png": "/paveleremeev.github.io/wedding/static/media/flower.aa83b6bf4067e8e5ce51.png",
-    "static/media/jabs.png": "/paveleremeev.github.io/wedding/static/media/jabs.fad429ed295378907862.png",
-    "static/media/New-YorkerC.ttf": "/paveleremeev.github.io/wedding/static/media/New-YorkerC.8d454fb1d910b51098f6.ttf",
-    "static/media/line_1.svg": "/paveleremeev.github.io/wedding/static/media/line_1.3d1fd957e378e72b410d8758095857a0.svg",
-    "index.html": "/paveleremeev.github.io/wedding/index.html",
-    "static/media/line_2.svg": "/paveleremeev.github.io/wedding/static/media/line_2.7511f62d6a0dc01c6e9bebdf25dd85f9.svg",
-    "main.8ab4b80f.css.map": "/paveleremeev.github.io/wedding/static/css/main.8ab4b80f.css.map",
-    "main.05c8b146.js.map": "/paveleremeev.github.io/wedding/static/js/main.05c8b146.js.map"
+    "main.css": "/PavelEremeev.github.io/wedding/static/css/main.42293847.css",
+    "main.js": "/PavelEremeev.github.io/wedding/static/js/main.70fa2569.js",
+    "static/media/hearts.png": "/PavelEremeev.github.io/wedding/static/media/hearts.06f9f15046ad9aee1e1e.png",
+    "static/media/Exo2-VariableFont_wght.ttf": "/PavelEremeev.github.io/wedding/static/media/Exo2-VariableFont_wght.a5a830e939ad10cf97f4.ttf",
+    "static/media/furshet.png": "/PavelEremeev.github.io/wedding/static/media/furshet.bd7f84dc549b1d76a13f.png",
+    "static/media/veranda.jpg": "/PavelEremeev.github.io/wedding/static/media/veranda.6571ea57211ef11abf1f.jpg",
+    "static/media/rechnoy.jpg": "/PavelEremeev.github.io/wedding/static/media/rechnoy.c8a70d1415e844401890.jpg",
+    "static/media/flower.png": "/PavelEremeev.github.io/wedding/static/media/flower.aa83b6bf4067e8e5ce51.png",
+    "static/media/jabs.png": "/PavelEremeev.github.io/wedding/static/media/jabs.fad429ed295378907862.png",
+    "static/media/New-YorkerC.ttf": "/PavelEremeev.github.io/wedding/static/media/New-YorkerC.8d454fb1d910b51098f6.ttf",
+    "static/media/line_1.svg": "/PavelEremeev.github.io/wedding/static/media/line_1.3d1fd957e378e72b410d8758095857a0.svg",
+    "index.html": "/PavelEremeev.github.io/wedding/index.html",
+    "static/media/line_2.svg": "/PavelEremeev.github.io/wedding/static/media/line_2.7511f62d6a0dc01c6e9bebdf25dd85f9.svg",
+    "main.42293847.css.map": "/PavelEremeev.github.io/wedding/static/css/main.42293847.css.map",
+    "main.70fa2569.js.map": "/PavelEremeev.github.io/wedding/static/js/main.70fa2569.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ab4b80f.css",
-    "static/js/main.05c8b146.js"
+    "static/css/main.42293847.css",
+    "static/js/main.70fa2569.js"
   ]
 }
